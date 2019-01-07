@@ -310,7 +310,7 @@ ul {
 
 .side-section-footer {
 	position: absolute;
-	background-color: #2b3442;
+	background-color: #a01a20 /*#2b3442*/;
 	padding-top: 8px;
 	text-align: center;
 	width: 100%;
