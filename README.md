@@ -1,3 +1,5 @@
+(screenshot.png)
+
 # Titanium Theme Builder
 
 A quick and easy way to generate [Titanium](https://www.appcelerator.com/mobile-app-development-products/) TSS-based color themes for your next cross-platform native mobile app.
