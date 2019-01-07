@@ -1,6 +1,6 @@
 # Titanium Theme Builder
 
-A quick and easy way to generate [NativeScript](https://www.nativescript.org/) CSS-based color themes for your next cross-platform native mobile app.
+A quick and easy way to generate [Titanium](https://www.appcelerator.com/mobile-app-development-products/) TSS-based color themes for your next cross-platform native mobile app.
 
 Just want to use it? Go to [https://adamtarmstrong.github.io/titanium-theme-builder](https://adamtarmstrong.github.io/titanium-theme-builder) (it's free).
 
