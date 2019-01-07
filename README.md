@@ -1,18 +1,18 @@
-# NativeScript Theme Builder
+(screenshot.png)
 
-A quick and easy way to generate [NativeScript](https://www.nativescript.org/) CSS-based color themes for your next cross-platform native mobile app.
+# Titanium Theme Builder
 
-Just want to use it? Go to [nativescriptthemebuilder.com](http://nativescriptthemebuilder.com) (it's free).
+A quick and easy way to generate [Titanium](https://www.appcelerator.com/mobile-app-development-products/) TSS-based color themes for your next cross-platform native mobile app.
+
+Just want to use it? Go to [https://adamtarmstrong.github.io/titanium-theme-builder](https://adamtarmstrong.github.io/titanium-theme-builder) (it's free).
 
 ## How Does it Work?
 
-Use the provided visual tools to tweak colors, borders, fonts, and such. Once you are happy, click the "Download Theme" button to download the custom CSS file for your NativeScript app. Styles will be applied globally to both iOS and Android (except where noted).
-
-NativeScript ships with a gorgeous default theme. This theme builder builds off of the default (light) theme. Therefore, you _will need_ to apply the provided CSS file _after_ you use one of the default themes. Specific instructions are provided when you download the theme.
+Use the provided visual tools to tweak colors, borders, fonts, and such. Once you are happy, click the "Download Theme" button to download the custom TSS file for your Titanium app. Styles will be applied globally to both iOS and Android (except where noted).
 
 ## Native Mobile App + CSS?
 
-NativeScript uses a subset of CSS to style apps. Yes, the same CSS you've been using for web development. You can apply CSS to individual elements by id, classes, and types. Read more about [styling with NativeScript here](https://docs.nativescript.org/ui/styling).
+Titanium uses a subset of TSS (similar to CSS) to style apps. You can apply TSS to individual elements by id, classes, and types. Read more about [Dynamic Styles here](https://docs.appcelerator.com/platform/latest/#!/guide/Dynamic_Styles).
 
 ## License
 
