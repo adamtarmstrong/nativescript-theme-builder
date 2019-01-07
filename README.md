@@ -1,4 +1,4 @@
-![screenshot](https://github.com/adamtarmstrong/titanium-theme-builder/screenshot.png)
+![screenshot](https://github.com/adamtarmstrong/titanium-theme-builder/blob/master/screenshot.png)
 
 # Titanium Theme Builder
 
