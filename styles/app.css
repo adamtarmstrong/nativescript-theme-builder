@@ -71,7 +71,7 @@ ul {
 	height: 55px;
 	line-height: 55px;
 	color: white;
-	background-color: #bb2331 /* #3f60f9*/;
+	background-color: #a01a20 /* #3f60f9*/;
 	z-index: 10;
 }
 
@@ -172,13 +172,13 @@ ul {
 
 .side-panel .btn-download {
 	width: 100%;
-	background-color: #bb2331 /* #3f60f9*/;
+	background-color: #a01a20 /* #3f60f9*/;
 	color: #fff;
 	font-size: 15px;
 	letter-spacing: 1px;
 	font-weight: 200;
 	text-transform: uppercase;
-	border: 1px solid #bb2331 /* #3f60f9*/;
+	border: 1px solid #a01a20 /* #3f60f9*/;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-ms-transition: all 0.2s ease-in-out;
@@ -238,7 +238,7 @@ ul {
 }
 
 .side-section .btn-revert:hover, .side-section .btn-revert:active {
-	color: #bb2331 /* #3f60f9*/;
+	color: #a01a20 /* #3f60f9*/;
 }
 
 /* side-section - colors */
@@ -374,7 +374,7 @@ ul {
 	height: 55px;
 	line-height: 55px;
 	color: white;
-	background-color: #bb2331 /* #3f60f9*/;
+	background-color: #a01a20 /* #3f60f9*/;
 	font-weight: lighter;
 	letter-spacing: 1px;
 	z-index: 10;
